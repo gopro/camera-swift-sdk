@@ -1,0 +1,19 @@
+{
+  "theme": {
+    "color": {
+      "documentation-intro-fill": "gopro-blue",
+      "documentation-intro-accent": "gopro-blue",
+      "documentation-topic-hover": "gopro-blue"
+    },
+    "colors": {
+      "gopro-blue": {
+        "light": "#0072C6",
+        "dark": "#1A8FE3"
+      }
+    },
+    "icons": {
+      "article": "/images/gopro-doc-icon.svg",
+      "technology": "/images/logo-gopro-technology.svg"
+    }
+  }
+}
