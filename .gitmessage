@@ -1,0 +1,13 @@
+# <type>(<scope>): <subject>
+#
+# Types: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert
+# Scopes:
+#   docs      README, guides, API documentation
+#   infra     GitHub templates, issue forms, repo config
+#   release   Release automation, changelogs, version bumps
+#
+# Rules:
+# - imperative mood, lowercase, no trailing period
+# - header: 72 chars max
+# - body: explain what and why (blank line after subject)
+# - footer: BREAKING CHANGE: ..., Closes: #123
