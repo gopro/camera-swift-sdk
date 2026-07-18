@@ -1,0 +1,39 @@
+name: Feature request
+description: Propose a new capability, API surface, or improvement to an existing one
+title: "feat: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: A clear and concise description of the problem or gap.
+      placeholder: "e.g. There's no way to subscribe to GPS telemetry in real time."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: >
+        What you want the SDK to do. Be as specific as you can about the API shape
+        if you have a preference.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds you've tried, or alternative approaches you've thought about.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Links, screenshots, or any other context that helps make the case.
+    validations:
+      required: false

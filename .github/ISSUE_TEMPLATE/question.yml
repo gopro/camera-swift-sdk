@@ -1,0 +1,36 @@
+name: Question
+description: Ask about integration, API usage, or expected SDK behavior
+title: "question: "
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Before asking, check the [API documentation](https://gopro.github.io/camera-swift-sdk)
+        and search [existing issues](../../issues?q=label%3Aquestion) — your question may
+        already be answered.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What would you like to know?
+    validations:
+      required: true
+
+  - type: input
+    id: sdk-version
+    attributes:
+      label: SDK version
+      placeholder: "e.g. 1.2.0"
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: >
+        Any relevant code snippets or setup details that help frame your question.
+    validations:
+      required: false

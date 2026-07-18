@@ -1,0 +1,80 @@
+name: Bug report
+description: Something isn't working — unexpected behavior, crash, or incorrect API response
+title: "bug: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Ensure you are using a [supported camera](https://gopro.github.io/camera-swift-sdk)
+        and the latest SDK release before filing. Issues against unsupported hardware or
+        outdated SDK versions will be closed.
+
+  - type: input
+    id: sdk-version
+    attributes:
+      label: SDK version
+      placeholder: "e.g. 1.2.0"
+    validations:
+      required: true
+
+  - type: input
+    id: xcode-version
+    attributes:
+      label: Xcode version
+      placeholder: "e.g. 16.2"
+    validations:
+      required: true
+
+  - type: input
+    id: camera
+    attributes:
+      label: Camera model and firmware
+      placeholder: "e.g. HERO13 Black · v01.30.00"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: >
+        Relevant Console (Xcode) output. Strip any personal data or credentials before pasting.
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, videos, or any other context that helps explain the problem.
+    validations:
+      required: false
