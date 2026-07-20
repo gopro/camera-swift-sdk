@@ -29,6 +29,12 @@ It provides a single unified API for the full camera integration lifecycle:
 | **Control** | Start/stop capture, change settings, trigger media actions |
 | **Retrieve** | Browse and download media from the camera's SD card |
 
+## Supported Cameras
+
+| Camera |
+|---|
+| HERO13 Black |
+
 ## Requirements
 
 - iOS 16+
