@@ -58,4 +58,4 @@ Before filing, search [existing issues](../../issues) to avoid duplicates.
 ## Related SDKs
 
 > [!TIP]
-> See the [GoPro Connect SDK for Android/KMP (Kotlin)](https://gopro.github.io/camera-kotlin-sdk)
+> See the [GoPro Connect SDK for Android/KMP (Kotlin)](https://github.com/gopro/camera-kotlin-sdk)

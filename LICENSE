@@ -1,0 +1,62 @@
+GOPRO MEDIA SDK DOCUMENTATION LICENSE
+
+© 2025-2026 GoPro, Inc. All rights reserved.
+
+This documentation is provided by GoPro, Inc., a Delaware corporation with
+offices at 3025 Clearview Way, San Mateo, CA 94402 (“GoPro”). By accessing or
+using this documentation, you agree to be bound by the following terms. If you do
+not agree to these terms, do not access or use this documentation.
+
+GoPro and its licensors own all right, title, and interest in and to this
+documentation, including all intellectual property rights therein, and this
+documentation is protected by applicable intellectual property laws.
+
+License Grant. Subject to the terms of this license, GoPro grants you a limited,
+non-exclusive, non-transferable, non-sublicensable, revocable license to access
+and use this documentation solely for the purpose of developing third-party
+products and applications that are compatible with GoPro products. You may not
+modify, adapt, translate, or create derivative works of this documentation. No
+license is granted to any underlying source code, software, patents, or other
+intellectual property of GoPro or its licensors except as expressly set forth
+herein. GoPro reserves all rights not expressly granted.
+
+SDK License Agreement. If you are a party to a separate license agreement with
+GoPro governing use of the GoPro SDK (an “SDK License Agreement”), your use of
+this documentation is subject to the terms and conditions of that SDK License
+Agreement, and in the event of any conflict between this license and the SDK
+License Agreement, the SDK License Agreement will control.
+
+No Warranty. THIS DOCUMENTATION IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+Limitation of Liability. IN NO EVENT WILL GOPRO OR ITS LICENSORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES
+ARISING OUT OF OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THIS
+DOCUMENTATION, REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+Termination. This license is effective until terminated. GoPro may terminate this
+license at any time, for any reason, at its sole discretion, with or without
+notice. This license terminates automatically if you breach any of its terms.
+Upon termination, you must cease all use of this documentation and destroy any
+copies in your possession.
+
+Export Compliance. You agree to comply with all applicable export and import laws
+and regulations in your use of this documentation, including the U.S. Export
+Administration Regulations. You may not access or use this documentation if you
+are located in, or a national of, any country subject to U.S. trade sanctions.
+
+No Agency. Nothing in this license creates any agency, partnership, joint
+venture, or employment relationship between you and GoPro.
+
+Governing Law. This license is governed by the laws of the State of California,
+without regard to its conflict of laws principles. Any dispute arising under this
+license will be subject to the exclusive jurisdiction of the state and federal
+courts located in Santa Clara County, California.
+
+Severability. If any provision of this license is held unenforceable, the
+remaining provisions will continue in full force and effect.
+
+Unauthorized use, reproduction, or distribution of this documentation is strictly
+prohibited.
