@@ -17,7 +17,7 @@
 The GoPro Connect SDK is a **closed-source, commercially distributed** Swift library. This repository is public for issue tracking and documentation only — the SDK binaries are not hosted here.
 
 > [!NOTE]
-> Register and download the latest release at [gopro.com](TBD).
+> Register and download the latest release at [gopro.com](https://gopro.com/en/us/info/developer-tools).
 
 It provides a single unified API for the full camera integration lifecycle:
 
@@ -43,7 +43,7 @@ It provides a single unified API for the full camera integration lifecycle:
 
 ## Download
 
-[Register and download the latest SDK → at gopro.com](TBD)
+[Register and download the latest SDK → at gopro.com](https://gopro.com/en/us/info/developer-tools)
 
 ## Documentation
 
